@@ -2,9 +2,9 @@ import re
 from pyairtable import Api
 
 class AirtableDataHelper:
-    API_KEY = 'patme5vkZmcHhnFkt.69142520502ca2015d8c97d6283e38f432e2c2eb76b375b41bd9bc01ee3bd309'
-    BASE_ID = 'appMTjfpFsylEVJt8'
-    TABLE_ID = 'tbluVbBmohg78SeSu'
+    API_KEY = 'test api key'
+    BASE_ID = 'test base id'
+    TABLE_ID = 'test table id'
     VIEW_TABLE = 'All'
 
     @staticmethod
